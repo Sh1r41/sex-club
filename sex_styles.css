@@ -61,6 +61,7 @@ header h1{
 
 /*Навигация*/
 nav{
+    width: 100%;
     text-align: center;
     z-index: 2;
     background-color: #f4f4f4;
